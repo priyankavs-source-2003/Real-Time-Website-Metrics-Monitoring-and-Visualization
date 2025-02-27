@@ -60,10 +60,14 @@ This retrieves the average number of HTTP requests over the last 5 minutes, help
 - **Solution**: Implemented **authentication & authorization** using Grafana’s **RBAC (Role-Based Access Control)**.
 
 ## Screenshots
-1. ![Pinger Web UI](j_L_screenshots/pinger_web_ui.jpeg)
-2. ![Prometheus CPU usage](j_L_screenshots/prometheus_cpu_usage.jpeg)
-3. ![Prometheus Memory usage](j_L_screenshots/prometheus_memory_usage.jpeg)
-4. ![Grafana Dashboard]((j_L_screenshots/grafana_dashboard.jpeg)
+1. Pinger Web UI
+   ![Pinger Web UI](j_L_screenshots/pinger_web_ui.jpeg)
+2. Prometheus CPU usage
+   ![Prometheus CPU usage](j_L_screenshots/prometheus_cpu_usage.jpeg)
+3. Prometheus Memory usage
+   ![Prometheus Memory usage](j_L_screenshots/prometheus_memory_usage.jpeg)
+4. Grafana Dashboard
+   ![Grafana Dashboard](j_L_screenshots/grafana_dashboard.jpeg)
 
 ## Notes
 - Ensure Kubernetes clusters and Docker are set up before deploying the Pinger application.
@@ -72,7 +76,7 @@ This retrieves the average number of HTTP requests over the last 5 minutes, help
 
 ## Contributors
 - Priyanka V S
+- Shreyas C
 - Shreeharsh Joshi
 - Sanath Yergol
 - Karthik Kosigi
-- Shreyas C
